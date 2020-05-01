@@ -17,6 +17,10 @@
     "redux-thunk": "^2.3.0",
     "semantic-ui-react": "^0.88.2"
   },
+  "engines": {
+    "node": "v10.16.2",
+    "npm": "6.9.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
